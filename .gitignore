@@ -1,0 +1,17 @@
+*.DS_Store
+.settings
+.classpath
+.project
+target
+*.class
+*.jar
+bin
+.springBeans
+log/
+.keystore
+.idea/
+*.iml
+/filesystem
+/out
+/logs
+.pydevproject

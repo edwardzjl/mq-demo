@@ -1,0 +1,7 @@
+spring:
+  cloud:
+    stream:
+      bindings:
+        listen-in-0:
+          destination: demo.dest
+      defaultBinder: kafka
